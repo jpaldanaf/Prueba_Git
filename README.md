@@ -1,2 +1,2 @@
 # Prueba_Git
-Repositorio prueba de Versionado Git
+Repositorio prueba de Versionado Git.
